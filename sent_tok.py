@@ -12,7 +12,7 @@ from nltk.tokenize import sent_tokenize
 
 def sent_tok(filename, language):
     """Return a list of sentencies."""
-    with open(filename, 'r') as fromF:
+    with open(filename, 'r', encoding='utf8') as fromF:
         text = fromF.read()
         sentences = []
         # Split into paragraphs and tokenize
@@ -24,7 +24,7 @@ def sent_tok(filename, language):
 
 def write_to_file(sentences, filename):
     """Write sentences to filename and return None."""
-    with open(filename + '_sent_tok', 'w') as toF:
+    with open(filename + '_sent_tok', 'w', encoding='utf8') as toF:
         for sent in sentences:
             toF.write('{}\n'.format(sent))
     return None
