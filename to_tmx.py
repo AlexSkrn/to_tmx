@@ -26,14 +26,14 @@ def build_tree(root, file1, file2):
 
                 tuv = ET.SubElement(tu,
                                     "tuv",
-                                    attrib={'lang': 'EN-US'}
+                                    attrib={'xml:lang': 'EN-US'}
                                     )
                 seg = ET.SubElement(tuv, "seg")
                 seg.text = src
 
                 tuv = ET.SubElement(tu,
                                     "tuv",
-                                    attrib={'lang': 'RU-RU'}
+                                    attrib={'xml:lang': 'RU-RU'}
                                     )
                 seg = ET.SubElement(tuv, "seg")
                 seg.text = trg
