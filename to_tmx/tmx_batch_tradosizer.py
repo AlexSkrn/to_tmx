@@ -32,8 +32,10 @@ class ProcessTMX:
 
         self.select_directory()
         if self.inputdir:
+            print('Reading files in:', self.inputdir)
             self.make_output_dir()
         if self.tmx_files:
+            print('# of tmx files identified:', len(self.tmx_files))
             self.process_tmx_files()
 
     def select_directory(self):
@@ -46,10 +48,11 @@ class ProcessTMX:
 
     def make_output_dir(self):
         """Create a dir for output files."""
-        file_names = os.listdir()
+        file_names = os.listdir(self.inputdir)
         self.tmx_files = [f for f in file_names if f.endswith('.tmx')]
         if self.tmx_files:
             self.outputpath = os.path.join(self.inputdir, 'tmx-trados-style/')
+            print('Created output dir:', self.outputpath)
             if not os.path.exists(self.outputpath):
                 try:
                     os.mkdir(self.outputpath)
@@ -59,9 +62,11 @@ class ProcessTMX:
                     sys.exit()
 
     def process_tmx_files(self):
-        """Process tmx files."""
+        """Process tmx files by applying Trados style fields."""
         for f in self.tmx_files:
-            tmx_tradosizer.main(f, os.path.join(self.outputpath, f))
+            tmx_tradosizer.main(os.path.join(self.inputdir, f),
+                                os.path.join(self.outputpath, f)
+                                )
 
 
 if __name__ == '__main__':
