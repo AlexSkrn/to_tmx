@@ -40,13 +40,13 @@ def test_add_tree_elements():
 
     test1 = """<header creationtool="SDL Language Platform" o-tmf="SDL TM8 Format" srclang="en-US">"""
     test2 = """<prop type="x-Recognizers">RecognizeAll</prop>"""
-    test3 = """<prop type="x-filename:SingleString">"""
+    test3 = """<prop type="x-filename:MultipleString">"""
 
     assert test1 in tmx_res
     assert test2 in tmx_res
     assert test3 in tmx_res
 
-    test4 = """<prop type="x-filename:SingleString">some file name.tmx</prop>"""
+    test4 = """<prop type="x-filename:MultipleString">some file name.tmx</prop>"""
     assert test4 in tmx_res
 
     test5 = 'some file name.tmx'

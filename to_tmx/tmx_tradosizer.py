@@ -30,11 +30,11 @@ AFTER RUNNING THIS SCRIPT:
 <tmx version="1.4">
   <header creationtool="SDL Language Platform" o-tmf="SDL TM8 Format" srclang="en-US">
     <prop type="x-Recognizers">RecognizeAll</prop>
-    <prop type="x-filename:SingleString" />
+    <prop type="x-filename:MultipleString" />
   </header>
   <body>
     <tu>
-      <prop type="x-filename:SingleString">some file name</prop>
+      <prop type="x-filename:MultipleString">some file name.tmx</prop>
       <tuv xml:lang="EN-US">
         <seg>The White House</seg>
       </tuv>
@@ -43,7 +43,7 @@ AFTER RUNNING THIS SCRIPT:
       </tuv>
     </tu>
     <tu>
-      <prop type="x-filename:SingleString">some file name</prop>
+      <prop type="x-filename:MultipleString">some file name.tmx</prop>
       <tuv xml:lang="EN-US">
         <seg>Office of the Press Secretary</seg>
       </tuv>
@@ -93,9 +93,9 @@ def add_tree_elements(tmx_contents_string, prop_text):
         header.set('o-tmf', "SDL TM8 Format")
         prop = ET.SubElement(header, 'prop', attrib={'type': 'x-Recognizers'})
         prop.text = 'RecognizeAll'
-        prop = ET.SubElement(header, 'prop', attrib={'type': 'x-filename:SingleString'})
+        prop = ET.SubElement(header, 'prop', attrib={'type': 'x-filename:MultipleString'})
     # Modify the <tu> element by creating a sub-element
-    prop = ET.Element('prop', attrib={'type': 'x-filename:SingleString'})
+    prop = ET.Element('prop', attrib={'type': 'x-filename:MultipleString'})
     prop.text = prop_text
     # Insert that element at the beginnig of another element
     for tu in root.iter('tu'):
@@ -107,15 +107,6 @@ def add_tree_elements(tmx_contents_string, prop_text):
 
 def main(file1, file2):
     """Run the script."""
-    # parser = argparse.ArgumentParser()
-    # parser.add_argument('path1',
-    #                     help='Provide input file path')
-    # parser.add_argument('path2',
-    #                     help='Provide output file path')
-    # args = parser.parse_args()
-    #
-    # file1 = args.path1
-    # file2 = args.path2
     tmx_contents = get_tmx_file_contents(file1)
     _, prop_text = os.path.split(file1)
     tree = add_tree_elements(tmx_contents, prop_text)
