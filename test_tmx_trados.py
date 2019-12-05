@@ -4,6 +4,25 @@ from to_tmx import tmx_tradosizer
 from to_tmx import to_tmx
 
 
+def test_build_trg_file_name_single_input(tmpdir):
+    """Function should return correct filename from a single input."""
+    trg_file = tmpdir.join('eng_rus.txt')
+    expected = "eng_rus.tmx"
+    head, tail = to_tmx.build_trg_file_name(trg_file)
+    assert tail == expected
+    assert head == tmpdir.strpath
+
+
+def test_build_trg_file_name_double_input(tmpdir):
+    """Function should return correct filename from a two-file input."""
+    src_file_eng = tmpdir.join('eng.txt')
+    src_file_rus = tmpdir.join('rus.txt')
+    expected = "eng-rus.tmx"
+    head, tail = to_tmx.build_trg_file_name(src_file_eng, src_file_rus)
+    assert tail == expected
+    assert head == tmpdir.strpath
+
+
 def test_to_tmx_main(tmpdir):
     """main() should create a file which should contain a certain string."""
     # Creates 2 temp files with specific content
@@ -14,9 +33,22 @@ def test_to_tmx_main(tmpdir):
     # This should create 1 more file in the temp dir
     to_tmx.main(eng_file, rus_file)
     assert len(tmpdir.listdir()) == 3
-    for f in tmpdir.visit("*//eng-rus.tmx"):
+    for f in tmpdir.visit("*eng-rus.tmx"):
         assert "Line 1" in f.read()
-        assert "Строка 2".encode("utf-32-be") in f.read()
+
+
+def test_to_tmx_main_single_file(tmpdir):
+    """main() should create a file which should contain a certain string."""
+    # Creates 2 temp files with specific content
+    eng_rus_file = tmpdir.join('english_russian.txt')
+    eng_rus_file.write("Line 1-1\tLine 1-2")
+    # eng_rus_file.write("Line 1\tСтрока 1".encode("utf-32-be"))
+    # eng_rus_file.write("Line 2\tСтрока 2".encode("utf-32-be"))
+    # This should create 1 more file in the temp dir
+    to_tmx.main(eng_rus_file)
+    assert len(tmpdir.listdir()) == 2
+    for f in tmpdir.visit("*english_russian.tmx"):
+        assert "Line 1" in f.read()
 
 
 def test_add_tree_elements():
