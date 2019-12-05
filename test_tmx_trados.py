@@ -1,5 +1,22 @@
 """Provide tests for tmx-tradosizer."""
+# import pytest
 from to_tmx import tmx_tradosizer
+from to_tmx import to_tmx
+
+
+def test_to_tmx_main(tmpdir):
+    """main() should create a file which should contain a certain string."""
+    # Creates 2 temp files with specific content
+    eng_file = tmpdir.join('eng.txt')
+    rus_file = tmpdir.join('rus.txt')
+    eng_file.write("Line 1\nLine 2")
+    rus_file.write("Строка 1\nСтрока 2".encode("utf-32-be"))
+    # This should create 1 more file in the temp dir
+    to_tmx.main(eng_file, rus_file)
+    assert len(tmpdir.listdir()) == 3
+    for f in tmpdir.visit("*//eng-rus.tmx"):
+        assert "Line 1" in f.read()
+        assert "Строка 2".encode("utf-32-be") in f.read()
 
 
 def test_add_tree_elements():

@@ -60,17 +60,8 @@ def indent(elem, level=0):
             elem.tail = i
 
 
-def main():
+def main(file1, file2):
     """Run the script."""
-    parser = argparse.ArgumentParser()
-    parser.add_argument('path1',
-                        help='Provide first file name')
-    parser.add_argument('path2',
-                        help='Provide second file name')
-    args = parser.parse_args()
-
-    file1 = args.path1
-    file2 = args.path2
 
     root = ET.Element('tmx', attrib={'version': '1.4'})
     ET.SubElement(root, 'header', attrib={'srclang': 'EN-US'})
@@ -86,4 +77,11 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    parser = argparse.ArgumentParser()
+    parser.add_argument('path1',
+                        help='Provide first file name')
+    parser.add_argument('path2',
+                        help='Provide second file name')
+    args = parser.parse_args()
+
+    main(args.path1, args.path2)
