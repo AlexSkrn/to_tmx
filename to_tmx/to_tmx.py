@@ -38,7 +38,7 @@ def build_tree(root, *args):
                                         )
                     seg = ET.SubElement(tuv, "seg")
                     seg.text = trg
-    if len(args) == 1:
+    elif len(args) == 1:
         file1 = args[0]
         with open(file1, 'r', encoding='utf8') as f1:
             for line in f1:
@@ -122,8 +122,8 @@ if __name__ == '__main__':
                         help='Provide one or two file names, english first')
     args = parser.parse_args()
     if len(args.source) == 2:
-        main(args.source)
+        main(*args.source)
     elif len(args.source) == 1:
-        main(args.source[0])
+        main(*args.source)
     else:
         print('Wrong number of arguments, use -h flag for help')
