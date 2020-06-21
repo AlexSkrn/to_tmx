@@ -1,0 +1,882 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" o-tmf="SDL TM8 Format" srclang="EN-US">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-filename:MultipleString" />
+  </header>
+  <body>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>How the Madrid System Works</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Как работает Мадридская система</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>The International Trademark Registration Process</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Процесс международной регистрации товарных знаков</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Stage 1 – Application through your National or Regional IP Office (Office of origin)</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Этап 1 – Подача заявки через ваше национальное или региональное ведомство ИС (ведомство происхождения)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Before you can file an international application, you need to have already registered, or have filed an application, in your “home” IP office.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Прежде чем вы сможете подать международную заявку, вам нужно уже зарегистрироваться или уже подать заявку в вашем «родном» ведомстве ИС.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>The registration or application is known as the basic mark.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Такая регистрация или заявка известна как базовый знак.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>You then need to submit your international application through this same IP Office, which will certify and forward it to WIPO.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Затем вам нужно подать международную заявку через то же самое ведомство ИС, которое заверит ее и направит ее в ВОИС.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Stage 2 – Formal examination by WIPO</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Этап 2 – Формальная экспертиза, проводимая ВОИС</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>WIPO only conducts a formal examination of your international application.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>ВОИС проводит лишь формальную экспертизу вашей международной заявки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Once approved, your mark is recorded in the International Register and published in the WIPO Gazette of International Marks.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Получив одобрение, ваш знак заносится в Международный реестр и публикуется в Бюллетене ВОИС по международным знакам.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>WIPO will then send you a certificate of your international registration and notify the IP Offices in all the territories where you wish to have your mark protected.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Затем ВОИС направит вам свидетельство о международной регистрации и уведомит ведомства ИС на всех территориях, на которых вы хотите обеспечить охрану вашего знака.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>It is important to note that the scope of protection of an international registration is not known at this stage in the process.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Важно отметить, что на этом этапе процесса объем охраны международной заявки неизвестен.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>It is only determined after substantive examination and decision by the IP Offices in the territories in which you seek protection, as outlined in Stage 3.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Он определяется только после проведения экспертизы по существу и после вынесения решения ведомствами ИС на тех территориях, на которых вы испрашиваете охрану, как это обрисовано в разделе, посвященном этапу 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Stage 3 – Substantive examination by National or Regional IP Offices (Office of the designated Contracting Party)</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Этап 3 – Экспертиза по существу, проводимая национальными или региональными ведомствами (ведомство указанной Договаривающейся стороны)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>The IP Offices of the territories where you want to protect your mark will make a decision within the applicable time limit (12 or 18 months) in accordance with their legislation.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Ведомства ИС на территориях, на которых вы хотите получить охрану вашего знака, примут решение в течение применимого срока (12 или 18 месяцев) в соответствии со своим законодательством.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>WIPO will record the decisions of the IP Offices in the International Register and then notify you.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>ВОИС произведет записи о решениях ведомств ИС в Международном реестре и затем уведомит вас.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>If an IP Office refuses to protect your mark, either totally or partially, this decision will not affect the decisions of other IP Offices.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Если то или иное ведомство ИС отказывается охранять ваш знак, либо полностью, либо частично, это решение не скажется на решениях других ведомств ИС.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>You can contest a refusal decision directly before the IP Office concerned in accordance with its legislation.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Вы можете оспорить решение об отказе непосредственно в причастном ведомстве ИС в соответствии с его законодательством.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>If an IP Office accepts to protect your mark, it will issue a statement of grant of protection.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Если то или иное ведомство ИС соглашается охранять ваш знак, оно сделает заявление о предоставлении охраны.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>The international registration of your mark is valid for 10 years.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Международная регистрация вашего знака действует на протяжении 10 лет.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>You can renew the registration at the end of each 10-year period directly with WIPO with effect in the designated Contracting Parties concerned.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>вы можете продлевать регистрацию в конце каждого 10-летнего периода непосредственно в ВОИС так, чтобы она действовала в соответствующей указанной Договаривающейся стороне.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>How to Search Before Filing</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Как вести поиск до подачи заявки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Before filing an international application through the Madrid System, you should search to find out if identical or similar marks already exist (or are pending) in your target markets.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>До подачи международной заявки в рамках Мадридской системы необходимо провести поиск на предмет наличия на интересующем рынке идентичного или схожего знака (или знака, заявка на который была подана ранее).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Use this guide to find out how to search WIPO’s Global Brand Database before filing your application, and how to locate the trademark registers of national and regional trademark Offices.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>В настоящем руководстве рассказывается о том, как до подачи заявки можно провести поиск в Глобальной базе данных по брендам ВОИС, а также о том, как найти реестры товарных знаков национальных и региональных ведомств по товарным знакам.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Searching existing trademarks is a necessary first step.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Поиск на предмет наличия существующих товарных знаков является необходимым первым шагом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>If your trademark infringes on another person’s IP rights or doesn’t comply with local laws, you may not be able to register it.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Если товарный знак ущемляет права другого обладателя прав или не отвечает местному законодательству, в регистрации знака может быть отказано.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>WIPO and national/regional IP Offices provide databases that can help you find out if a mark similar to yours is already in use for the same or related goods and services.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>ВОИС и национальные/региональные ведомства ИС имеют базы данных, с помощью которых можно узнать, не существует ли схожего знака, который уже используется в отношении тех же или однородных товаров и услуг.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Get started with your search using WIPO’s Global Brand Database.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>В качестве первого шага можно провести поиск в Глобальной базе данных по брендам ВОИС.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Learn more.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Дополнительная информация приводится здесь.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>WIPO's Global Brand Database enables you to search for trademarks registered under the Madrid System, Appellations of Origin registered under the Lisbon System, and Emblems protected under the Paris Convention 6ter.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Глобальная база данных по брендам ВОИС позволяет вам вести поиск товарных знаков, зарегистрированных в рамках Мадридской системы, наименований мест происхождения, зарегистрированных в рамках Лиссабонской системы, и эмблем, охраняемых в рамках статьи 6ter Парижской конвенции.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>A number of national trademark collections are also included.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>В нее также включен ряд национальных фондов товарных знаков.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Through the Global Brand Database you can:</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Через Глобальную базу данных по брендам можно:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Conduct one search covering multiple sources simultaneously</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>вести один поиск, охватывающий одновременно многочисленные источники</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Discover similar or identical word marks using a variety of search features including Boolean, proximity, word-stem, phonetic and “fuzzy” search features</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>находить схожие или идентичные словесные знаки, используя различные поисковые элементы, включая булевы операторы, операторы контекстной близости, основу слова, фонетические или «нечеткие» поисковые элементы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Find similar or identical image marks using the search by image function</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>находить схожие или идентичные изобразительные знаки, используя систему поиска по функции изображения</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Although the Global Brand Database covers a number of large trademark collections, it does not include trademarks filed directly (i.e., outside the Madrid System) with a number of Contracting Parties.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Хотя Глобальная база данных по брендам содержит ряд крупных собраний товарных знаков, в нее не включены товарные знаки, поданные напрямую (т.е. за пределами Мадридской системы) в ряде Договаривающихся сторон.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>It may be prudent to also search the registers of national/regional IP Offices.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Возможно, было бы благоразумно провести также поиск в реестрах национальных/региональных ведомств ИС.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>The databases or registers of national/regional IP Offices provide records of trademarks filed and registered in those offices.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Базы данных или реестры национальных/региональных ведомств ИС содержат информацию о товарных знаках, заявленных и зарегистрированных в этих ведомствах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>WIPO maintains information on Contracting Parties (members) of the Madrid System, including links to IP Office websites.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>ВОИС хранит информацию о Договаривающихся сторонах (членах) Мадридской системы, включая ссылки на веб-сайты ведомств ИС.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Follow these links to find national/regional registers.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Используйте эти ссылки, чтобы найти национальные/региональные реестры.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Remember that these Registers are not managed by WIPO and may be in national languages other than the three official languages of the Madrid System - English, French and Spanish.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Просьба учесть, что эти реестры не имеют отношения к ВОИС и могут вестись на национальных языках, не являющихся тремя официальными языками Мадридской системы (английский, испанский и французский).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Discovering an identical or similar mark prior to filing may be preferable to finding out afterwards.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Пожалуй, обнаружить идентичный или схожий товарный знак лучше до подачи заявки, чем после нее.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>This knowledge will enable you to make appropriate filing decisions.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Эта информация позволит вам принять соответствующее решение о подаче заявки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>It is important to determine if the identical or similar mark:</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Важно определить, относится ли идентичный или схожий знак к:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>is for the same or related goods and/or services</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>тем же самым или родственным товарам и/или услугам;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>is a live application or registration</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>действующей заявке или регистрации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>If the identical or similar mark is for unrelated goods and/or services, you may decide to proceed with your application.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Если идентичный или схожий товарный знак относится не к родственным товарам и/или услугам, вы можете принять решение в пользу подачи заявки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Similarly, if the application has lapsed or the registration has expired, you may also wish to proceed.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Аналогичным образом, если заявка утратила силу или срок действия регистрации истек, вы можете сделать следующий шаг.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Of course, you may also elect to proceed with your application even if there is an earlier application or registered mark in a Contracting Party of interest for the same or related goods and/or services.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Разумеется, вы можете также подать заявку, даже если в интересующей вас Договаривающейся стороне существует более ранняя заявка или зарегистрированный знак на те же или родственные товары и/или услуги.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>You should be aware that in such a case a provisional refusal may be raised by the concerned Office of a designated Contracting Party, on the basis that the mark conflicts with an earlier pending or registered mark.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>В этом случае вы должны понимать, что ведомство указанной Договаривающейся стороны может поднять вопрос о предварительном отказе на том основании, что знак вступает в конфликт с более ранним находящимся на рассмотрении или зарегистрированным знаком.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>There are a number of ways to overcome this type of refusal, but a local representative in the Contracting Party may be necessary to respond to the provisional refusal.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Есть ряд способов преодоления такого рода отказа, однако для того, чтобы отреагировать на предварительный отказ, может понадобиться местный представитель в Договаривающейся стороне.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Remember – If you need assistance to search prior to filing, or advice on strategies to avoid conflicts with already existing marks, you can consult a trademark attorney, agent or lawyer in your country or in the country of interest.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Помните – Если вам нужна помощь в проведении поиска до подачи заявки или консультация о стратегиях, позволяющих избежать конфликтов с уже существующими знаками, вы можете обратиться к поверенному или агенту по товарным знакам или юристу в вашей или в интересующей вас стране.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>National/regional IP Offices usually maintain lists of registered attorneys.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Национальные/региональные ведомства ИС обычно имеют списки зарегистрированных поверенных.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Article 6ter</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Статья 6ter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Article 6ter of the Paris Convention protects the flags and emblems of states that are party to the Paris Convention, as well as the names and emblems of international intergovernmental organizations (IGOs) against unauthorized registration and use as trademarks.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Статья 6ter Парижской конвенции охраняет флаги и эмблемы государств, являющихся участниками Парижской конвенции, а также наименования и эмблемы международных межправительственных организаций (МПО) от несанкционированной регистрации и использования в качестве товарных знаков.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Article 6ter applies to all states which are party to the Paris Convention for the Protection of Industrial Property.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Статья 6ter применяется ко всем государствам-участникам Парижской конвенции по охране промышленной собственности.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>The protection granted by Article 6ter is also extended to the names and emblems of IGOs whose members include at least one country of the Paris Union.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Охрана, предоставляемая на основании статьи 6ter, распространяется также на наименования и эмблемы МПО, членами которых является по меньшей мере одна страна Парижского союза.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>General Information on Article 6ter</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Общая информация о статье 6ter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Article 6ter of the Paris Convention for the Protection of Industrial Property of 1883 (1967 Stockholm Act) was introduced into the Paris Convention by the Revision Conference of the Hague in 1925.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Статья 6ter Парижской конвенции по охране промышленной собственности 1883 г. (Стокгольмский акт 1967 г.) была включена в Парижскую конвенцию Конференцией по пересмотру, состоявшейся в Гааге в 1925 г.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>It underwent some minor modifications, as to form, at the Revision Conference of London in 1934, and was more thoroughly revised by the Revision Conference of Lisbon in 1958.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>На Конференции по пересмотру в Лондоне в 1934 г. конвенция претерпела отдельные незначительные формальные изменения, а затем была более фундаментально пересмотрена Конференцией по пересмотру, состоявшейся в Лиссабоне в 1958 г.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>The purpose of Article 6ter is to protect armorial bearings, flags and other State emblems of the States party to the Paris Convention as well as official signs and hallmarks indicating control and warranty adopted by them.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Цель статьи 6ter состоит в охране гербов, флагов и других государственных эмблем государств-участников Парижской конвенции, а также принятых ими официальных знаков и клейм контроля и гарантии.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>This protection was extended to armorial bearings, flags, other emblems, abbreviations and names of international intergovernmental organizations by the Revision Conference of Lisbon in 1958.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Эта охрана была распространена на гербы, флаги, другие эмблемы, сокращенные и полные наименования международных межправительственных организаций на Конференции по пересмотру в Лиссабоне в 1958 г.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Communication procedure</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Процедура обмена сообщениями</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Any emblem or other official sign mentioned above for which a State party to the Paris Convention or an international intergovernmental organization wishes to obtain protection has to be communicated to the International Bureau of WIPO, which will then communicate it to the other States party to the Paris Convention.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Эмблема или другой официальный знак, упомянутый выше, на который государство-участник Парижской конвенции или член международной межправительственной организации желает получить охрану, должно быть сообщено Международному бюро ВОИС, которое затем передаст это сообщение всем другим государствам-участникам Парижской конвенции.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Semi-annual publication</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Публикация раз в полгода</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>The Paris Union Assembly, on the occasion of its 40th Session, which took place in Geneva from September 22 to October 1, 2008, based on the recommendation of the Standing Committee on the Law of Trademarks, Industrial Designs and Geographical Indications, decided to modernize the Article 6ter communication procedure through the introduction of electronic means of communication.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Ассамблея Парижского союза в ходе своей 40-й сессии, проходившей в Женеве с 22 сентября по 1 октября 2008 г., приняла решение по рекомендации Постоянного комитета по законодательству в области товарных знаков, промышленных образцов и географических указаний о модернизации предусмотренной в статье 6ter процедуры обмена сообщениями путем введения электронных сообщений.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Under the revised communication procedure, individual communications of signs for which protection under Article 6ter is requested by States and IGOs are replaced by a periodical electronic publication in the Article 6ter Express database.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>В рамках пересмотренной процедуры обмена сообщениями индивидуальные сообщения о знаках, для которых государства и МПО испрашивают охрану согласно статье 6ter, заменяются периодическими электронными публикациями в базе данных «Статья 6ter Экспресс».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>The nature of the signs concerned as well as the entity (State or IGO) having requested their protection, is published, in English and French, together with the individual reproductions of the signs concerned.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Указания в частности в отношении характера знаков, а также сторон (государства или МПО), запросивших их охрану, публикуются на английском и французском языках вместе с изображениями соответствующих знаков.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>The electronic publication is made on a semi-annual basis, on the last working day of the months of March and September, respectively, according to the WIPO calendar, starting in March 2009.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Электронная публикация осуществляется два раза в год, соответственно, в последний рабочий день марта и сентября согласно графику работы ВОИС начиная с марта 2009 г.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>A link to the most recent communications is inserted into the database, which indicates the communications that were received by the International Bureau during the six months previous to the publication.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>В базе данных приводятся ссылки на последние сообщения, полученные Международным бюро в течение шести месяцев, предшествующих публикации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>The date of publication is considered to constitute the date of receipt of the communication by individual States party to the Paris Convention and any other party bound to apply Article 6ter of the Paris Convention.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Дата публикации считается датой получения сообщения соответствующего государства-участника Парижской конвенции или любой другой стороны, связанной обязательствами по статье 6ter Парижской конвенции.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Consequently, the time periods provided for in Article 6ter(4) and (6) of the Paris Convention are calculated as of that date of publication for all receiving States party to the Paris Convention.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Соответственно сроки, предусмотренные в статье 6ter (4) и (6) Парижской конвенции, исчисляются для всех получающих государств-участников Парижской конвенции начиная с этой даты публикации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>By consequence, this date is identical for States concerned.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Таким же образом эта дата является одинаковой для всех заинтересованных государств.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Objection</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Возражение</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>may, within a period of 12 months from the date of publication of that communication, transmit its objections, if any, through the intermediary of the International Bureau, to the State or international intergovernmental organization at the request of which the communication was made.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>в течение 12 месяцев с даты публикации этого сообщения может представить свои возражения - при наличии таковых - через посредство Международного бюро государству или международной межправительственной организации, по просьбе которого или которой было сделано сообщение.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Scope of protection</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Объем охраны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>The protection offered by Article 6ter to any emblem or other official signs mentioned above, is not of a general nature.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Предоставляемая статьей 6ter охрана на эмблему или другой официальный знак, упомянутый выше, не носит общего характера.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>The purpose of Article 6ter is to prohibit the registration and use of trademarks which are identical to, or present a certain similarity with the above–mentioned emblems or official signs.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Цель статьи 6ter состоит только в запрещении регистрации и использования товарных знаков, которые являются идентичными или имеют определенное сходство с вышеуказанными эмблемами или официальными знаками.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Article 6ter is only applicable to trademarks and does not oblige States party to the Paris Convention to refuse or to invalidate the registration, and to prohibit use of State emblems or other official signs as a service mark or as an element of a service mark.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Статья 6ter применяется только к товарным знакам и не обязывает государства-участников Парижской конвенции отклонять или признавать недействительной регистрацию и запрещать использование государственных эмблем или других официальных знаков в качестве знаков обслуживания или элементов знаков обслуживания.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>States are nevertheless free to do so, and under Article 16 of the Trademark Law Treaty (TLT) and Article 16 of the Singapore Treaty on the Law of Trademarks, States party to those Treaties are obliged to provide Article 6ter protection against registration or use as service marks.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Тем не менее государства могут делать это, и в соответствии со статьей 16 Договора о законах по товарным знакам (TLT) и статьей 16 Сингапурского договора о законах по товарным знакам государства-участники этих договоров обязаны предоставлять охрану согласно статье 6ter от регистрации или использования в качестве знаков обслуживания.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Protected signs</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Охраняемые знаки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>The list of the items which can be the subject of a communication under Article 6ter of the Paris Convention, at the request of a State party to that Convention comprises: armorial bearings, flags and other State emblems, as well as official signs and hallmarks indicating control and warranty adopted by the State itself.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Список объектов, которые могут быть предметом сообщения согласно статье 6ter Парижской конвенции по ходатайству государства-участника этой конвенции включает: гербы, флаги и другие государственные эмблемы, а также официальные знаки и клейма контроля и гарантии, принятые самим государством.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>The expression "other State emblems" is rather vague.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Выражение «другие государственные эмблемы» является довольно туманным.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>It is generally understood as referring to any emblems constituting the symbol of the sovereignty of a State.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Оно обычно понимается как относящееся к любым эмблемам, являющимся символом суверенности государства.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>A State emblem frequently contains heraldic elements, such as a lion, an eagle, the sun.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Часто государственная эмблема содержит геральдические элементы – изображение льва, орла или солнца.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>It is to be noted that the intention of the Revision Conference of the Hague, in 1925, was to include in the protection of State emblems the escutcheons of reigning Houses, as well as emblems of States included in a Federative State which is party to the Paris Convention.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Следует отметить, что в 1925 г. Конференция по пересмотру в Гааге намеревалась распространить охрану государственных эмблем на щиты гербов правящих королевских домов, а также эмблемы государств, входящих в состав федерального государства-участника Парижской конвенции.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>However, it was not intended to include emblems of lower public bodies.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Однако, не предполагалось распространить охрану на эмблемы менее значительных государственных органов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>The purpose of official signs and hallmarks indicating control and warranty is to certify that a State or an organization duly appointed by a State to that effect has checked that certain goods meet specific standards or have a given level of quality.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Целью официальных знаков и клейм контроля и гарантии является удостоверение того, что государство или организация, должным образом назначенная государством для этой цели, проверили соответствие определенных товаров конкретным стандартам или конкретному уровню качества.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Official signs and hallmarks indicating control and warranty exist in several States with respect to precious metals or products such as butter, cheese, meat, electrical equipment, etc.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Официальные знаки и клейма контроля и гарантии существуют в нескольких государствах применительно к драгоценным металлам или таким продуктам, как масло, сыр, мясо, а также электрооборудование и пр.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>In principle, officials signs and hallmarks indicating control and warranty may also apply to services, for instance those relating to education, tourism, etc.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>В принципе, официальные знаки и клейма контроля и гарантии также могут применяться к услугам, например, услугам в области образования, туризма и пр.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>The protection as an official sign indicating control and warranty is more limited than a protection as a State emblem.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>По сравнению с охраной государственной эмблемы охрана официального знака контроля или гарантии более ограничена.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Article 6ter(2) provides that such protection "shall apply solely in cases where the marks in which they are incorporated are intended to be used on goods of the same or similar kind."</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Статья 6ter(2) предусматривает, что такая охрана "применяется только в случаях, когда знаки, содержащие их, предназначаются для использования на товарах такого же рода или подобных им».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Under Article 16 of the TLT, this provision extends to services.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Согласно статье 16 TLT это положение распространяется на услуги.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>The protection afforded by Article 6ter was extended by the Revision Conference of Lisbon in 1958, not only to armorial bearings, flags and other emblems, but also to names, and abbreviations of such names of intergovernmental organizations of which one or more States party to the Paris Convention are members.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>На Конференции по пересмотру в Лиссабоне в 1958 г. предоставляемая статьей 6ter охрана была распространена не только на гербы, флаги и другие эмблемы, но также и на полные и сокращенные наименования межправительственных организаций, членами которых является одна или несколько стран-участниц Парижской конвенции.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>However, the protection under Article 6ter did not extend to armorial bearings, flags, other emblems, names and abbreviations of intergovernmental organizations which are already the subject of international agreements in force, intended to ensure their protection, such as the Geneva Convention for the amelioration of the condition of the wounded and sick in armed forces, of August 12, 1949, Article 44 of which protects the emblems of the Red Cross on a white ground, the words "Red Cross" or "Geneva Cross, and analogous emblems."</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Однако согласно статье 6ter охрана не распространялась на гербы, флаги, другие эмблемы, полные и сокращенные названия межправительственных организаций, которые уже являются участниками действующих международных соглашений, направленных на обеспечение их охраны, в частности «Женевская конвенция по улучшению условий содержания раненых и больных в вооруженных силах» от 12 августа 1949 г., статья 44 которой охраняет эмблему красного креста на белом фоне, слова «Красный крест» или «Женевский крест и аналогичные эмблемы".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>Guidelines</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>Руководящие принципы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>In order to clarify certain aspects of the Article 6ter(1)(b) and (3)(b), the Assembly of the Paris Union adopted the Guidelines for the Interpretation of Article 6ter(1)(b) and (3)(b) in 1992.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>В целях уточнения некоторых аспектов статьи 6ter(1)(b) и 3(b) в 1992 г. Ассамблея Парижского союза приняла Руководство по толкованию статьи 6ter(1)(b) и 3(b).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-filename:MultipleString">Madrid System_eng-Madrid System_rus.tmx</prop>
+      <tuv xml:lang="EN-US">
+        <seg>In application of these Guidelines, any program or institution established by an international intergovernmental organization, and any convention constituting an international treaty may, under certain conditions, benefit from the protection granted by Article 6ter(1)(b) of the Paris Convention.</seg>
+      </tuv>
+      <tuv xml:lang="RU-RU">
+        <seg>При применение этого руководства программа или орган, учрежденные международной межправительственной организацией, и конвенция, являющаяся международным договором, при определенных условиях могут пользоваться преимуществами охраны, предоставляемой в силу статьи 6ter(1)(b) Парижской конвенции.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
