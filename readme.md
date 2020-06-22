@@ -59,10 +59,10 @@ $ python to_tmx.tmx_tradosizer path/"file name_eng-file name_rus.tmx path/file_n
 Первый аргумент -- исходный tmx-файл (полученный на предыдущем этапе), второй аргумент -- путь
 и желаемое название выходящего файла. Например:
 ```
-$ python to_tmx.tmx_tradosizer data/"Madrid System_eng-Madrid System_rus.tmx data/madrid_system_trados_style.tmx"
+$ python to_tmx.tmx_tradosizer data/"Madrid System_eng-Madrid System_rus.tmx" data/madrid_system_trados_style.tmx
 ```
 
-### Конвертация многих файлов в tmx, понимаемый программой SDL Trados Studio 2017
+### Конвертация многих файлов в tmx-файлы, понимаемые программой SDL Trados Studio 2017
 
 Скрипт ```to_tmx.tmx_batch_tradosizer``` попросит выбрать папку с несколькими tmx-файлами,
 а результат сохранит в папку ```tmx-trados-style/```
