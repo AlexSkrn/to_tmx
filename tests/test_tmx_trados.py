@@ -23,29 +23,29 @@ def test_build_trg_file_name_double_input(tmpdir):
     assert head == tmpdir.strpath
 
 
-def test_to_tmx_main(tmpdir):
-    """main() should create a file which should contain a certain string."""
+def test_to_tmx_create_tmx(tmpdir):
+    """create_tmx() should create a file which should contain a certain string."""
     # Creates 2 temp files with specific content
     eng_file = tmpdir.join('eng.txt')
     rus_file = tmpdir.join('rus.txt')
     eng_file.write("Line 1\nLine 2")
     rus_file.write("Строка 1\nСтрока 2".encode("utf-32-be"))
     # This should create 1 more file in the temp dir
-    to_tmx.main(eng_file, rus_file)
+    to_tmx.create_tmx(eng_file, rus_file)
     assert len(tmpdir.listdir()) == 3
     for f in tmpdir.visit("*eng-rus.tmx"):
         assert "Line 1" in f.read()
 
 
-def test_to_tmx_main_single_file(tmpdir):
-    """main() should create a file which should contain a certain string."""
+def test_to_tmx_create_tmx_single_file(tmpdir):
+    """create_tmx() should create a file which should contain a certain string."""
     # Creates 2 temp files with specific content
     eng_rus_file = tmpdir.join('english_russian.txt')
     eng_rus_file.write("Line 1-1\tLine 1-2")
     # eng_rus_file.write("Line 1\tСтрока 1".encode("utf-32-be"))
     # eng_rus_file.write("Line 2\tСтрока 2".encode("utf-32-be"))
     # This should create 1 more file in the temp dir
-    to_tmx.main(eng_rus_file)
+    to_tmx.create_tmx(eng_rus_file)
     assert len(tmpdir.listdir()) == 2
     for f in tmpdir.visit("*english_russian.tmx"):
         assert "Line 1" in f.read()

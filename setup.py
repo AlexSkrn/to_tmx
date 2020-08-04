@@ -26,7 +26,7 @@ here = os.path.abspath(os.path.dirname(__file__))
 
 # Import the README and use it as the long-description.
 try:
-    with io.open(os.path.join(here, 'README.md'), encoding='utf-8') as f:
+    with io.open(os.path.join(here, 'readme.md'), encoding='utf-8') as f:
         long_description = '\n' + f.read()
 except FileNotFoundError:
     long_description = DESCRIPTION
@@ -34,7 +34,7 @@ except FileNotFoundError:
 
 setuptools.setup(
     name=NAME,
-    version='0.1.0',
+    version='1.0.0',
     description=DESCRIPTION,
     long_description=long_description,
     long_description_content_type='text/markdown',
@@ -50,4 +50,13 @@ setuptools.setup(
         'Programming Language :: Python',
         'Programming Language :: Python :: 3'
     ],
+    keywords='tmx converter',
+    entry_points={
+        'console_scripts': [
+            'sent-tok=to_tmx.sent_tok:main',
+            'to-tmx=to_tmx.to_tmx:main',
+            'tmx-tradosize=to_tmx.tmx_tradosizer:main',
+            'tmx-batch-tradosize=to_tmx.tmx_batch_tradosizer:ProcessTMX'
+        ],
+    },
 )

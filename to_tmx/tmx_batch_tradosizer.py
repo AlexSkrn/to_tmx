@@ -65,9 +65,9 @@ class ProcessTMX:
     def process_tmx_files(self):
         """Process tmx files by applying Trados style fields."""
         for f in self.tmx_files:
-            tmx_tradosizer.main(os.path.join(self.inputdir, f),
-                                os.path.join(self.outputpath, f)
-                                )
+            tmx_tradosizer.create_tmx(os.path.join(self.inputdir, f),
+                                      os.path.join(self.outputpath, f)
+                                      )
 
 
 if __name__ == '__main__':

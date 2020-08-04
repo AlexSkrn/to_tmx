@@ -105,8 +105,8 @@ def add_tree_elements(tmx_contents_string, prop_text):
     return ET.ElementTree(root)
 
 
-def main(file1, file2):
-    """Run the script."""
+def create_tmx(file1, file2):
+    """Create a tmx file from two files."""
     tmx_contents = get_tmx_file_contents(file1)
     _, prop_text = os.path.split(file1)
     tree = add_tree_elements(tmx_contents, prop_text)
@@ -114,7 +114,8 @@ def main(file1, file2):
     tree.write(file2, encoding='UTF-8', xml_declaration=True)
 
 
-if __name__ == '__main__':
+def main():
+    """Run the script."""
     parser = argparse.ArgumentParser()
     parser.add_argument('path1',
                         help='Provide input file path')
@@ -124,4 +125,8 @@ if __name__ == '__main__':
 
     file1 = args.path1
     file2 = args.path2
-    main(file1, file2)
+    create_tmx(file1, file2)
+
+
+if __name__ == '__main__':
+    main()

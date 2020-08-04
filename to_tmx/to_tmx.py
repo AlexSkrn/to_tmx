@@ -100,8 +100,8 @@ def build_trg_file_name(*args):
     return head, target_file_name
 
 
-def main(*args):
-    """Run the script."""
+def create_tmx(*args):
+    """Create the tmx file."""
     root = ET.Element('tmx', attrib={'version': '1.4'})
     ET.SubElement(root, 'header', attrib={'srclang': 'EN-US'})
     tree = build_tree(root, *args)
@@ -112,7 +112,8 @@ def main(*args):
     tree.write(dsn, encoding='UTF-8', xml_declaration=True)
 
 
-if __name__ == '__main__':
+def main():
+    """Run the script."""
     description = """Text-to-tmx converter. Accepts one tab-delim source file
     (format: 'english text \\t russian text')
     or two source files: English.txt, Russian.txt. Texts must be
@@ -122,8 +123,12 @@ if __name__ == '__main__':
                         help='Provide one or two file names, english first')
     args = parser.parse_args()
     if len(args.source) == 2:
-        main(*args.source)
+        create_tmx(*args.source)
     elif len(args.source) == 1:
-        main(*args.source)
+        create_tmx(*args.source)
     else:
         print('Wrong number of arguments, use -h flag for help')
+
+
+if __name__ == '__main__':
+    main()
