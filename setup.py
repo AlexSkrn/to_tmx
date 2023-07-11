@@ -13,7 +13,7 @@ DESCRIPTION = 'Txt-to-tmx file converter.'
 URL = 'https://github.com/AlexSkrn/to_tmx'
 EMAIL = 'alex.g.skrn@gmail.com'
 AUTHOR = 'AlexSkrn'
-REQUIRES_PYTHON = '>=3.6.0,<3.8.0'
+REQUIRES_PYTHON = '>=3.6.0'
 
 
 def list_reqs(fname='requirements.txt'):
@@ -34,7 +34,7 @@ except FileNotFoundError:
 
 setuptools.setup(
     name=NAME,
-    version='1.0.1',
+    version='1.0.2',
     description=DESCRIPTION,
     long_description=long_description,
     long_description_content_type='text/markdown',
